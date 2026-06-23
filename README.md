@@ -1,6 +1,7 @@
 # Python Voice Assistant
 
-A beginner-friendly Python voice assistant that listens to spoken commands and responds using speech. The assistant can greet the user, tell the current time and date, perform web searches, and handle unclear voice input gracefully.
+A beginner-friendly Python voice assistant that listens to spoken commands and responds using speech.
+The assistant can greet the user, tell the current time and date, perform web searches, and handle unclear voice input gracefully.
 
 ---
 
